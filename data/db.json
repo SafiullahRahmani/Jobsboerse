@@ -1,0 +1,58 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "salary": 50000,
+      "location": "London, UK"
+    },
+    {
+      "id": 2,
+      "title": "Fachinformatiker",
+      "salary": 40000,
+      "location": "Berlin, Deutschland"
+    },
+    {
+      "id": 3,
+      "title": "Anwalt für das Kriminalamt",
+      "salary": 75000,
+      "location": "Essen, NRW"
+    },
+    {
+      "id": 4,
+      "title": "Vue Developer",
+      "salary": 40000,
+      "location": "Liverpool, UK"
+    },
+    {
+      "id": 5,
+      "title": "Tutorial Maker",
+      "salary": 35000,
+      "location": "Manchester, UK"
+    },
+    {
+      "id": 6,
+      "title": "Website Manager",
+      "salary": 50000,
+      "location": "Berlin, Deutschland"
+    },
+    {
+      "id": 7,
+      "title": "Hausarzt",
+      "salary": 80000,
+      "location": "Hof, Bayern"
+    },
+    {
+      "id": 8,
+      "title": "Junior Fullstack Developer",
+      "salary": 30000,
+      "location": "München, Bayern"
+    },
+    {
+      "id": 9,
+      "title": "Junior React Developer",
+      "salary": 30000,
+      "location": "Weimar, Thüringen"
+    }
+  ]
+}
