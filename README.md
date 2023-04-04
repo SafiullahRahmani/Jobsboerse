@@ -1,2 +1,2 @@
 # Jobsboerse
-Webseite mit den advanced React Router Funktionalitäten
+Website mit den advanced React Router Funktionalitäten
